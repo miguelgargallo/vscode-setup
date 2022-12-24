@@ -1,17 +1,33 @@
-tags
-error lens
-git graph
-copilot
-hyper theme
-image preview
-import cost
-inline fold
-remote ssh
-iconos
-prettier
-markdwon all in one
-
-json
-deno
-rust
-python
+alefragnani.Bookmarks
+bungcip.better-toml
+burkeholland.simple-react-snippets
+denoland.vscode-deno
+dustypomerleau.rust-syntax
+emmanuelbeziat.vscode-great-icons
+esbenp.prettier-vscode
+formulahendry.auto-rename-tag
+formulahendry.code-runner
+GitHub.copilot-nightly
+hsnazar.hyper-term-theme
+khaeransori.json2csv
+kisstkondoros.vscode-gutter-preview
+mheob.vscode-snippets
+mhutchie.git-graph
+mikestead.dotenv
+moalamri.inline-fold
+ms-python.isort
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
+ms-toolsai.jupyter-keymap
+ms-toolsai.jupyter-renderers
+ms-toolsai.vscode-jupyter-cell-tags
+ms-toolsai.vscode-jupyter-slideshow
+ms-vscode-remote.remote-ssh
+naumovs.color-highlight
+njpwerner.autodocstring
+rust-lang.rust-analyzer
+serayuzgur.crates
+usernamehw.errorlens
+wix.vscode-import-cost
+yzhang.markdown-all-in-one
