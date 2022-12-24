@@ -7,12 +7,10 @@ image preview
 import cost
 inline fold
 remote ssh
-
 iconos
-ts
-js
-mdx
-md
+prettier
+markdwon all in one
+
 json
 deno
 rust
