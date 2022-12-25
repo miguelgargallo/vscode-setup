@@ -1,3 +1,12 @@
+# EP 5 | Pencil TV 🔴 Mi setup de VS Code, Python, Rust, Javascript, Typescript para React, Next y Deno
+- Código: https://github.com/miguelgargallo/vscode-setup
+- Visita la web: https://github.com/miguelgargallo/vscode-setup
+- Lee el código: https://github.com/miguelgargallo/vscode-setup
+- Usa el Framework:
+```
+git clone https://github.com/miguelgargallo/Next13-Framework-SushiJS-Turbo
+```
+
 # VSCode Setup by miguelgargallo
 
 This is my personal setup for VSCode. I have been using it for a while and I have been changing it a lot. I have decided to share it with the community.
