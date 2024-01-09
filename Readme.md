@@ -3,6 +3,7 @@
 - Visita la web: https://github.com/miguelgargallo/vscode-setup
 - Lee el código: https://github.com/miguelgargallo/vscode-setup
 - Usa el Framework:
+
 ```
 git clone https://github.com/miguelgargallo/Next13-Framework-SushiJS-Turbo
 ```
@@ -13,12 +14,15 @@ This is my personal setup for VSCode. I have been using it for a while and I hav
 
 ## Files
 
+```
 /setup.md contains the list of extensions I have installed to develop my projects.
 /before.md contains the list of extensions and settings before the clean install.
 /after.md contains the list of extensions and settings after the clean install.
-
+```
 
 ## Extensions
+
+```
 alefragnani.Bookmarks
 bungcip.better-toml
 burkeholland.simple-react-snippets
@@ -52,3 +56,4 @@ serayuzgur.crates
 usernamehw.errorlens
 wix.vscode-import-cost
 yzhang.markdown-all-in-one
+```
